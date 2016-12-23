@@ -1,0 +1,33 @@
+.container{
+	background: green;
+	text-align: center;
+}
+.main {
+	background: white;
+	text-align: center;
+	width: 1110px;	
+	float: left;
+}
+.banner{
+	padding-bottom: 50px;
+	width: 1110px;
+	text-align: center;
+}
+@font-face {
+  font-family: 'Blowhole';
+  src: url('../font/Blowhole.otf');
+}
+.menu ul li{
+	
+	text-align: center;
+	float:left;
+}
+span{
+	color: yellow;
+}
+.no-float {
+    clear: both;
+}
+.menu1 {
+	text-align: center;;
+}
